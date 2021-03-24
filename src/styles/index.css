@@ -1,9 +1,9 @@
 .navbar {
-    background-color: #060b26;
+    background-color: #4190cc;
     height: 80px;
     display: flex;
-    /* justify-content: start; */
     align-items: center;
+    margin: 0px;
   }
   
   .menu-bars {
@@ -13,7 +13,7 @@
   }
   
   .nav-menu {
-    background-color: #060b26;
+    background-color: #4190cc;
     width: 250px;
     height: 100vh;
     display: flex;
@@ -31,7 +31,6 @@
   
   .nav-text {
     display: flex;
-    /* justify-content: start; */
     align-items: center;
     padding: 8px 0px 8px 16px;
     list-style: none;
@@ -55,15 +54,15 @@
   }
   
   .nav-menu-items {
+    padding: 0px;
     width: 100%;
   }
   
   .navbar-toggle {
-    background-color: #060b26;
+    background-color: #4190cc;
     width: 100%;
     height: 80px;
     display: flex;
-    /* justify-content: start; */
     align-items: center;
   }
   
